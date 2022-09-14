@@ -52,4 +52,4 @@ const comments = [
 ]
 
 comments[1].text;
-// gives glubglub
+// gives glubglub                               
